@@ -1,0 +1,7 @@
+{
+  "schemaType": "LAUNCHER",
+  "id": "viz",
+  "displayName": "Viz",
+  "description": "Describe me",
+  "rootNerdletId": "d0fe173c-0aeb-469b-8e01-dcafc59a2c30.react-viz"
+}
